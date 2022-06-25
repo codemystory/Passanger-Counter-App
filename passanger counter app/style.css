@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255, 217, 0);
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+
+
+}
+
+h1 {
+    text-align: center;
+
+}
+#count-el {
+    text-align: center;
+    font-size: 50px;
+
+}
+button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+ 
+}
+#increment-btn {
+    background-color: green;
+    color: white;
+}
+#save-btn {
+    
+    background-color: red;
+    color: white;
+}
